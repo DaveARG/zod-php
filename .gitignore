@@ -1,2 +1,5 @@
 /vendor
 .phpunit*
+phpunit.xml
+/.github
+/tests
