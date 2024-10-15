@@ -1,5 +1,4 @@
 {
-    "name": "dave-arg/zod-php",
     "require-dev": {
         "laravel/pint": "^1.2",
         "pestphp/pest": "^1.22"
