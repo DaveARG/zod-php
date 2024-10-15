@@ -1,9 +1,9 @@
 <?php
 
-namespace StyleShit\Zod\Schemas;
+namespace DaveARG\Zod\Schemas;
 
-use StyleShit\Zod\Exceptions\InvalidObjectException;
-use StyleShit\Zod\Exceptions\InvalidObjectSchemaException;
+use DaveARG\Zod\Exceptions\InvalidObjectException;
+use DaveARG\Zod\Exceptions\InvalidObjectSchemaException;
 
 class ObjectSchema extends Schema
 {

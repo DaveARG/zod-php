@@ -1,6 +1,6 @@
 <?php
 
-namespace StyleShit\Zod\Schemas;
+namespace DaveARG\Zod\Schemas;
 
 abstract class Schema
 {

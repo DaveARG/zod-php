@@ -1,11 +1,11 @@
 <?php
 
-namespace StyleShit\Zod\Exceptions;
+namespace DaveARG\Zod\Exceptions;
 
 class InvalidNumberException extends \Exception
 {
     public static function make($value)
     {
-        return new static('Invalid number. Expected a number, `'.gettype($value).'` given.');
+        return new static('Invalid number. Expected a number, `' . gettype($value) . '` given.');
     }
 }

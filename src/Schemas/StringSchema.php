@@ -1,10 +1,10 @@
 <?php
 
-namespace StyleShit\Zod\Schemas;
+namespace DaveARG\Zod\Schemas;
 
-use StyleShit\Zod\Exceptions\InvalidStringException;
-use StyleShit\Zod\Exceptions\LongStringException;
-use StyleShit\Zod\Exceptions\ShortStringException;
+use DaveARG\Zod\Exceptions\InvalidStringException;
+use DaveARG\Zod\Exceptions\LongStringException;
+use DaveARG\Zod\Exceptions\ShortStringException;
 
 class StringSchema extends Schema
 {

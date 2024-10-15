@@ -1,10 +1,10 @@
 <?php
 
-namespace StyleShit\Zod;
+namespace DaveARG\Zod;
 
-use StyleShit\Zod\Schemas\NumberSchema;
-use StyleShit\Zod\Schemas\ObjectSchema;
-use StyleShit\Zod\Schemas\StringSchema;
+use DaveARG\Zod\Schemas\NumberSchema;
+use DaveARG\Zod\Schemas\ObjectSchema;
+use DaveARG\Zod\Schemas\StringSchema;
 
 class Zod
 {

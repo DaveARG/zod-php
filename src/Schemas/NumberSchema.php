@@ -1,10 +1,10 @@
 <?php
 
-namespace StyleShit\Zod\Schemas;
+namespace DaveARG\Zod\Schemas;
 
-use StyleShit\Zod\Exceptions\BigNumberException;
-use StyleShit\Zod\Exceptions\InvalidNumberException;
-use StyleShit\Zod\Exceptions\SmallNumberException;
+use DaveARG\Zod\Exceptions\BigNumberException;
+use DaveARG\Zod\Exceptions\InvalidNumberException;
+use DaveARG\Zod\Exceptions\SmallNumberException;
 
 class NumberSchema extends Schema
 {
