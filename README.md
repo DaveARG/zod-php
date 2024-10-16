@@ -2,6 +2,12 @@
 
 A [Zod](https://github.com/colinhacks/zod)-like implementation in PHP, inspired by [Laravel](https://github.com/laravel/framework/)'s code standards.
 
+## Installation:
+
+```bash
+composer require dave-arg/zod-php
+```
+
 ## Usage:
 
 The usage is pretty simple & straightforward, and is very similar to the original Zod library:

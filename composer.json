@@ -1,5 +1,6 @@
 {
     "name": "dave-arg/zod-php",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "DaveARG\\Zod\\": "src"
